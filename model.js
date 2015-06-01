@@ -10,10 +10,6 @@ function strcmp(a, b){
   return 0;
 }
 
-{
-	função teste ()
-}
-
 $(document).ready(function() {
 	// Set jQuery UI Layout panes
   $('body').layout({
