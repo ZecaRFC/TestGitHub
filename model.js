@@ -12,6 +12,8 @@ function strcmp(a, b){
 
 {
 	função teste ()
+	page.Teste();
+	page.Down();
 }
 
 $(document).ready(function() {
